@@ -1,7 +1,9 @@
 ---
 title: competititve programming
 description: well this covers the basics from the cses
-tags: stable
+tags: 
+- stable
+enableToc: true
 ---
 **What exactly is competitive programming?**
 
