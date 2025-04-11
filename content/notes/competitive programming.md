@@ -1,5 +1,5 @@
 ---
-title: competititve programming
+title: Competititve Programming
 description: well this covers the basics from the cses
 tags: 
 - stable
