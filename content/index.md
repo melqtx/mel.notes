@@ -16,5 +16,5 @@ I'm [Melano](https://melqtx.tech). This is where I document my journey through c
 - [[alpha|Alpha]]: partial implementations
 - [[stable|Stable]]: mature, well-understood knowledge — refined, reliable, and often referenced
 
-I'm currently working through [[CSES Handbook]].
+I'm currently working through [[CSES Handbook]] a practical guide for [[competitive programming]].
 
