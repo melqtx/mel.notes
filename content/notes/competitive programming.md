@@ -116,7 +116,7 @@ DP is hard for everyone at first. don't rush it.
 - cp is 90% pattern recognition  
 - don't jump to solutions — struggle a little, that’s how you grow  
 - be consistent. 2 problems a day > 20 on a weekend  
-- join cp servers/communities  (having friends helps)  
+- join discord servers/communities  (having friends helps)  
 - write your own notes / mini-blog if it helps you remember stuff
 
 
