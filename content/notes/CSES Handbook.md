@@ -1,5 +1,6 @@
 ---
 title: CSES handbook
+date: 2025-04-11
 description: competitive programming handbook
 tags: proto
 ---

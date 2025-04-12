@@ -1,5 +1,6 @@
 ---
 title: Hosting
+date: 2025-04-11
 description: Hosting your projects for free?
 tags: 
 - stable
