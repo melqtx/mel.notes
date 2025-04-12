@@ -1,6 +1,7 @@
 ---
 title: Competititve Programming
 description: well this covers the basics from the cses
+date: 2025-04-11
 tags: 
 - stable
 enableToc: true
