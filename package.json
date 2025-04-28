@@ -97,8 +97,12 @@
     "shiki": "^1.26.2",
 =======
     "sharp": "^0.34.1",
+<<<<<<< HEAD
     "shiki": "^3.2.2",
 >>>>>>> 9c1ad8a (chore(deps): bump the production-dependencies group with 4 updates)
+=======
+    "shiki": "^3.3.0",
+>>>>>>> 3ad46bd (chore(deps): bump the production-dependencies group with 3 updates)
     "source-map-support": "^0.5.21",
     "to-vfile": "^8.0.0",
     "toml": "^3.0.0",
@@ -114,15 +118,23 @@
     "@types/hast": "^3.0.4",
     "@types/js-yaml": "^4.0.9",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "@types/node": "^22.15.23",
 =======
     "@types/node": "^22.14.1",
 >>>>>>> 9c1ad8a (chore(deps): bump the production-dependencies group with 4 updates)
+=======
+    "@types/node": "^22.15.3",
+>>>>>>> 3ad46bd (chore(deps): bump the production-dependencies group with 3 updates)
     "@types/pretty-time": "^1.1.5",
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.33",
+<<<<<<< HEAD
     "esbuild": "^0.25.5",
+=======
+    "esbuild": "^0.25.3",
+>>>>>>> 3ad46bd (chore(deps): bump the production-dependencies group with 3 updates)
     "prettier": "^3.5.3",
     "tsx": "^4.19.4",
     "typescript": "^5.8.3"

@@ -5,5 +5,5 @@ description: competitive programming handbook
 tags: proto
 enableToc: false
 ---
-nothing much as of now.
+nothing much as of now.QQ
 
